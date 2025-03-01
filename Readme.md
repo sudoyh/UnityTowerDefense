@@ -15,7 +15,8 @@
 
 
 # Overview
-UnityTowerDefense is a strategic tower defense game where players must defend their base from waves of enemies. Players can place towers, upgrade them, and manage resources to survive increasing levels of difficulty.
+UnityTowerDefense is a strategic tower defense game where players must defend their base from waves of enemies.<br>
+Players can place towers, upgrade them, and manage resources to survive increasing levels of difficulty.
 
 
 
@@ -109,7 +110,9 @@ cd UnityTowerDefense
 
 
 
-[📄 Download exefile](https://github.com/sudoyh/UnityTowerDefense/YH_exefile_towerDefenseforMac.zip)
+[📄 Download exefile](https://github.com/sudoyh/UnityTowerDefense/blob/main/YH_exefile_towerDefenseforMac.zip)
+
+
 
 ---
 ---
