@@ -1,0 +1,16 @@
+{
+    "name": "yhTowerDefense",
+    "displayName": "yhTowerDefense",
+    "version": "1.5.0-preview",
+    "unity": "2019.2",
+    "description": "",
+    "keywords": ["2d"],
+    "category": "2D",
+    "dependencies": {
+        "com.unity.modules.tilemap": "1.0.0",
+        "com.unity.2d.tilemap": "1.0.0"
+    },
+    "relatedPackages": {
+      "com.unity.2d.tilemap.extras.tests": "1.5.0-preview"
+    }
+}
